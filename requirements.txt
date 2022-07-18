@@ -1,0 +1,6 @@
+openpyxl
+requests
+Pillow
+beautifulsoup4
+rich
+urllib3
